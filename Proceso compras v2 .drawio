@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T18:36:08.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="O2Ka9Q3om5C51zKKjAzm" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T18:42:31.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="MjVDL1oMQZ9UvhB1zXkB" version="18.0.0" type="github">
   <diagram id="PDAtc7qh2HkbyuVlbZEj" name="Page-1">
     <mxGraphModel dx="1949" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="130" y="970" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-73" value="Elabora contrato y da seguimiento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;glass=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=40;strokeColor=default;fillColor=default;" parent="MQlByFX84VsxIGHB_ize-61" vertex="1">
-          <mxGeometry x="100" y="680" width="110" height="80" as="geometry" />
+          <mxGeometry x="100" y="730" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-68" value="    Jefe recursos &#xa;materiales" style="swimlane;startSize=40;" parent="MQlByFX84VsxIGHB_ize-51" vertex="1">
           <mxGeometry x="700" width="200" height="1270" as="geometry" />
@@ -154,7 +154,7 @@
           <mxGeometry x="30" y="1042.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-88" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;startSize=40;" parent="MQlByFX84VsxIGHB_ize-84" vertex="1">
-          <mxGeometry x="30" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=40;" parent="MQlByFX84VsxIGHB_ize-84" source="MQlByFX84VsxIGHB_ize-87" target="MQlByFX84VsxIGHB_ize-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -162,8 +162,14 @@
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MQlByFX84VsxIGHB_ize-84" source="MQlByFX84VsxIGHB_ize-88" target="MQlByFX84VsxIGHB_ize-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bh-wuCUUmlVvegQ2jmEu-29" value="Genera OC y finca al proveedor" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="MQlByFX84VsxIGHB_ize-84">
+        <mxCell id="bh-wuCUUmlVvegQ2jmEu-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MQlByFX84VsxIGHB_ize-84" source="bh-wuCUUmlVvegQ2jmEu-29" target="bh-wuCUUmlVvegQ2jmEu-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh-wuCUUmlVvegQ2jmEu-29" value="Genera OC&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="MQlByFX84VsxIGHB_ize-84">
           <mxGeometry x="30" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bh-wuCUUmlVvegQ2jmEu-31" value="Finca orden de compra al proveedor" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="MQlByFX84VsxIGHB_ize-84">
+          <mxGeometry x="30" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MQlByFX84VsxIGHB_ize-72" target="MQlByFX84VsxIGHB_ize-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -191,15 +197,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MQlByFX84VsxIGHB_ize-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="MQlByFX84VsxIGHB_ize-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1025.0000000000005" y="690" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1025" y="720" />
-              <mxPoint x="535" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MQlByFX84VsxIGHB_ize-73" target="MQlByFX84VsxIGHB_ize-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -214,8 +211,7 @@
         <mxCell id="MQlByFX84VsxIGHB_ize-108" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MQlByFX84VsxIGHB_ize-81" target="MQlByFX84VsxIGHB_ize-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1308" y="1160" />
-              <mxPoint x="1080" y="1160" />
+              <mxPoint x="1307" y="1153" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -263,6 +259,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MQlByFX84VsxIGHB_ize-82" target="bh-wuCUUmlVvegQ2jmEu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bh-wuCUUmlVvegQ2jmEu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bh-wuCUUmlVvegQ2jmEu-31" target="MQlByFX84VsxIGHB_ize-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
