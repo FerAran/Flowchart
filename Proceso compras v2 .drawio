@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T05:04:46.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="gUNts6mgO14HWHrs40Z_" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T05:05:30.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="OPriQy84DHLsz8GaRCgE" version="18.0.0" type="github">
   <diagram id="PDAtc7qh2HkbyuVlbZEj" name="Page-1">
     <mxGraphModel dx="1947" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,16 +212,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-13" value="Almacén" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="230" width="270" height="1120" as="geometry" />
+          <mxGeometry x="1490" y="80" width="280" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-18" value="&lt;span&gt;Recibe producto y manda al área solicitante&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="bh-wuCUUmlVvegQ2jmEu-13">
-          <mxGeometry x="59" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bh-wuCUUmlVvegQ2jmEu-13" source="bh-wuCUUmlVvegQ2jmEu-24" target="bh-wuCUUmlVvegQ2jmEu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-24" value="&lt;span&gt;Recibe producto, lo&amp;nbsp; regresa al proveedor y solicita otro envío&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="bh-wuCUUmlVvegQ2jmEu-13">
-          <mxGeometry x="59" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="59" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MQlByFX84VsxIGHB_ize-81" edge="1">
           <mxGeometry relative="1" as="geometry">
