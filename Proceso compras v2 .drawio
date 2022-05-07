@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T05:05:30.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="OPriQy84DHLsz8GaRCgE" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T05:09:12.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="i7BivFEUEP4ZRH3jWoHC" version="18.0.0" type="github">
   <diagram id="PDAtc7qh2HkbyuVlbZEj" name="Page-1">
-    <mxGraphModel dx="1947" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,16 @@
           <mxGeometry x="16.5" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-56" value="Firma de conformidad" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;glass=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=40;strokeColor=default;fillColor=default;" parent="MQlByFX84VsxIGHB_ize-52" vertex="1">
-          <mxGeometry x="16.5" y="1120" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-57" value="Recibir el producto o servicio solicitado" style="whiteSpace=wrap;html=1;rounded=0;glass=0;startSize=40;" parent="MQlByFX84VsxIGHB_ize-52" vertex="1">
-          <mxGeometry x="16.5" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-20" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MQlByFX84VsxIGHB_ize-52" source="bh-wuCUUmlVvegQ2jmEu-4" target="MQlByFX84VsxIGHB_ize-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bh-wuCUUmlVvegQ2jmEu-4" value="¿El producto cumple con los requisisots?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;startSize=40;" vertex="1" parent="MQlByFX84VsxIGHB_ize-52">
-          <mxGeometry x="34.75" y="960" width="85.25" height="100" as="geometry" />
+        <mxCell id="bh-wuCUUmlVvegQ2jmEu-4" value="¿El producto cumple con las especificaciones?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;startSize=40;" vertex="1" parent="MQlByFX84VsxIGHB_ize-52">
+          <mxGeometry x="20" y="960" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MQlByFX84VsxIGHB_ize-52" source="MQlByFX84VsxIGHB_ize-57" target="bh-wuCUUmlVvegQ2jmEu-4">
           <mxGeometry relative="1" as="geometry" />
@@ -122,16 +122,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-79" value="Gerente &#xa;Finanzas" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="80" width="371" height="1270" as="geometry" />
+          <mxGeometry x="1120" y="80" width="240" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-80" value="¿La OC cumple con los requisitos?" style="rhombus;whiteSpace=wrap;html=1;" parent="MQlByFX84VsxIGHB_ize-79" vertex="1">
-          <mxGeometry x="75" y="390" width="100" height="100" as="geometry" />
+          <mxGeometry x="70" y="390" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-81" value="¿Transacción autorizada?" style="rhombus;whiteSpace=wrap;html=1;" parent="MQlByFX84VsxIGHB_ize-79" vertex="1">
           <mxGeometry x="140" y="957.5" width="95" height="85" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-82" value="Se firma OC (pdf)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="MQlByFX84VsxIGHB_ize-79" vertex="1">
-          <mxGeometry x="60" y="550" width="140" height="60" as="geometry" />
+          <mxGeometry x="50" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-83" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="MQlByFX84VsxIGHB_ize-79" source="MQlByFX84VsxIGHB_ize-80" target="MQlByFX84VsxIGHB_ize-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-13" value="Almacén" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="80" width="280" height="1270" as="geometry" />
+          <mxGeometry x="1360" y="80" width="240" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-18" value="&lt;span&gt;Recibe producto y manda al área solicitante&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="bh-wuCUUmlVvegQ2jmEu-13">
           <mxGeometry x="59" y="740" width="120" height="60" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bh-wuCUUmlVvegQ2jmEu-24" value="&lt;span&gt;Recibe producto, lo&amp;nbsp; regresa al proveedor y solicita otro envío&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="bh-wuCUUmlVvegQ2jmEu-13">
-          <mxGeometry x="59" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MQlByFX84VsxIGHB_ize-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MQlByFX84VsxIGHB_ize-81" edge="1">
           <mxGeometry relative="1" as="geometry">
