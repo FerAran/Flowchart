@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T04:35:01.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5wOJc5uGq_oAUo6PzVnU" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-11T04:35:47.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="sBOlHjvU9wXuVqT3zlDi" version="18.0.2" type="github" pages="2">
   <diagram id="tJ1YR-TLoVljx-hFDWHn" name="Page-1">
     <mxGraphModel dx="2324" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zhv9A2u4WkF7qu6938MG-1" value="Proceso de ventas" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-2320" width="1290" height="1140" as="geometry" />
+          <mxGeometry x="40" y="-2323" width="1290" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="zhv9A2u4WkF7qu6938MG-2" value="Atención al cliente" style="swimlane;startSize=20;" parent="zhv9A2u4WkF7qu6938MG-1" vertex="1">
           <mxGeometry x="20" width="160" height="1140" as="geometry" />
