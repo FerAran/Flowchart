@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T01:15:52.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ifJQmNIOKVNORfvjZy5y" version="18.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-14T01:18:39.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="__Zj78o6h_hMeQNoZyUb" version="18.0.3" type="github" pages="3">
   <diagram id="tJ1YR-TLoVljx-hFDWHn" name="Page-1">
     <mxGraphModel dx="2130" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zK2HmvD_lzfan_c_IAA_-1" value="Proceso de ventas" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="49" width="1570" height="1120" as="geometry" />
+          <mxGeometry x="40" y="40" width="1570" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="zK2HmvD_lzfan_c_IAA_-2" value="Atención al cliente" style="swimlane;startSize=20;" parent="zK2HmvD_lzfan_c_IAA_-1" vertex="1">
           <mxGeometry x="20" width="200" height="1120" as="geometry" />
@@ -371,11 +371,8 @@
         <mxCell id="tfcRsKxek-1wuIUQbpqX-14" value="Confirmación de pago/crédito" style="rounded=0;whiteSpace=wrap;html=1;" parent="zhv9A2u4WkF7qu6938MG-18" vertex="1">
           <mxGeometry x="55" y="863" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r1tEd4JnUSaKFDWhxs3w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zhv9A2u4WkF7qu6938MG-18" source="LxK8piaDAoZQ5vtMP12W-27" target="Yc6H1DrtEEypQ3cfxtjz-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LxK8piaDAoZQ5vtMP12W-27" value="Valoración crediticia de cliente nuevo" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="zhv9A2u4WkF7qu6938MG-18">
-          <mxGeometry x="35" y="161.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="157.25" width="120" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="zhv9A2u4WkF7qu6938MG-20" value="Facturación" style="swimlane;startSize=20;" parent="zhv9A2u4WkF7qu6938MG-1" vertex="1">
           <mxGeometry x="1200" width="240" height="1153" as="geometry" />
@@ -399,6 +396,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QC-Bim9iCm4on8IW6QHH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zhv9A2u4WkF7qu6938MG-1" source="CLr_GUVcuaLEqWBEy2sQ-6" target="QC-Bim9iCm4on8IW6QHH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r1tEd4JnUSaKFDWhxs3w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zhv9A2u4WkF7qu6938MG-1" source="LxK8piaDAoZQ5vtMP12W-27" target="X4A9kpMCSUIOYWktLc97-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
