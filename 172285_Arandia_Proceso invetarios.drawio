@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T14:48:18.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="84GXexcupcZjTD-89OCX" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T14:54:58.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="XKQIb7lIHjS5p6NnH-Q8" version="18.0.3" type="github" pages="2">
   <diagram id="jR5MKKfHQDHxsoliVBKJ" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,14 +73,16 @@
         <mxCell id="qhTGVoRqfC-M4U4o0FZF-59" value="¿La cantidad es correcta?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="qhTGVoRqfC-M4U4o0FZF-3">
           <mxGeometry x="73.75" y="840" width="102.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qhTGVoRqfC-M4U4o0FZF-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qhTGVoRqfC-M4U4o0FZF-3" source="qhTGVoRqfC-M4U4o0FZF-63" target="qhTGVoRqfC-M4U4o0FZF-65">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qhTGVoRqfC-M4U4o0FZF-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qhTGVoRqfC-M4U4o0FZF-3" source="qhTGVoRqfC-M4U4o0FZF-63" target="nQNH2K75p7a1DZ59Vv1a-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qhTGVoRqfC-M4U4o0FZF-63" value="Aceptación de mercancía y comunica al proveedor" style="whiteSpace=wrap;html=1;" vertex="1" parent="qhTGVoRqfC-M4U4o0FZF-3">
           <mxGeometry x="65" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qhTGVoRqfC-M4U4o0FZF-65" value="Registro de entrada de mercancías" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qhTGVoRqfC-M4U4o0FZF-3">
-          <mxGeometry x="65" y="1060" width="120" height="80" as="geometry" />
+        <mxCell id="nQNH2K75p7a1DZ59Vv1a-1" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qhTGVoRqfC-M4U4o0FZF-3">
+          <mxGeometry x="92.5" y="1070" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qhTGVoRqfC-M4U4o0FZF-4" value="Auxiliar de calidad" style="swimlane;startSize=20;" vertex="1" parent="qhTGVoRqfC-M4U4o0FZF-1">
           <mxGeometry x="520" width="250" height="1140" as="geometry" />
@@ -158,6 +160,53 @@
           <mxGeometry x="625" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qhTGVoRqfC-M4U4o0FZF-56" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qhTGVoRqfC-M4U4o0FZF-47" target="qhTGVoRqfC-M4U4o0FZF-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="73hikINkb79PtGLmjiy5" name="Page-2">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-1" value="Proceso inventarios - Recibo de material" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="770" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-2" value="Proveedor" style="swimlane;startSize=20;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-1">
+          <mxGeometry x="20" width="250" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-11" value="Jefe almacén" style="swimlane;startSize=20;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-1">
+          <mxGeometry x="270" width="250" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-41" value="Registro de entrada de mercancías" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11">
+          <mxGeometry x="65" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CjdfbAL-eO82W5pllThL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11" source="CjdfbAL-eO82W5pllThL-1" target="ayZ2iCyhxGKRSi2Dpl_o-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CjdfbAL-eO82W5pllThL-1" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11">
+          <mxGeometry x="92.5" y="30" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-3" value="Imprime por duplicado la&lt;br&gt;entrada y sella" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11">
+          <mxGeometry x="65" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11" source="ayZ2iCyhxGKRSi2Dpl_o-41" target="imoFRnsPMeE2F3E3_VTV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-5" value="Archiva documento físico en expediente" style="whiteSpace=wrap;html=1;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11">
+          <mxGeometry x="65" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ayZ2iCyhxGKRSi2Dpl_o-11" source="imoFRnsPMeE2F3E3_VTV-3" target="imoFRnsPMeE2F3E3_VTV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-27" value="Auxiliar de calidad" style="swimlane;startSize=20;" vertex="1" parent="ayZ2iCyhxGKRSi2Dpl_o-1">
+          <mxGeometry x="520" width="250" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-7" value="Fín" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="imoFRnsPMeE2F3E3_VTV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="imoFRnsPMeE2F3E3_VTV-5" target="imoFRnsPMeE2F3E3_VTV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
