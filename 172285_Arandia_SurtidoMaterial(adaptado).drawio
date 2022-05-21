@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T03:59:15.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mT_SwCjEGVfD27b0v8cn" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-21T03:59:56.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wduN9b59q7O33uv3OEvf" version="18.1.1" type="github">
   <diagram id="MG9Jwr_cynhsmJfgqKS9" name="Page-1">
     <mxGraphModel dx="1826" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IKL-g7gsELlb7K-4rnZ0-1" value="Diagrama de inventarios- surtido de material" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
-          <mxGeometry x="13" y="40" width="800" height="932.4" as="geometry" />
+          <mxGeometry x="13" y="40" width="800" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="IKL-g7gsELlb7K-4rnZ0-2" value="Almacén" style="swimlane;startSize=20;" parent="IKL-g7gsELlb7K-4rnZ0-1" vertex="1">
-          <mxGeometry x="20" width="300" height="932.4" as="geometry" />
+          <mxGeometry x="20" width="300" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="pHOnSbwayD7eDnfhMCeY-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="IKL-g7gsELlb7K-4rnZ0-2" source="IKL-g7gsELlb7K-4rnZ0-3" target="IKL-g7gsELlb7K-4rnZ0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKL-g7gsELlb7K-4rnZ0-18" value="Ventas" style="swimlane;startSize=20;aspect=fixed;" parent="IKL-g7gsELlb7K-4rnZ0-1" vertex="1">
-          <mxGeometry x="320" width="210" height="932.4" as="geometry" />
+          <mxGeometry x="320" width="210" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="IKL-g7gsELlb7K-4rnZ0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="IKL-g7gsELlb7K-4rnZ0-18" source="IKL-g7gsELlb7K-4rnZ0-20" target="IKL-g7gsELlb7K-4rnZ0-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="45" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pHOnSbwayD7eDnfhMCeY-21" value="Cliente" style="swimlane;startSize=20;aspect=fixed;" parent="IKL-g7gsELlb7K-4rnZ0-1" vertex="1">
-          <mxGeometry x="530" width="270" height="932.4" as="geometry" />
+          <mxGeometry x="530" width="270" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="pHOnSbwayD7eDnfhMCeY-39" value="Recepción de material" style="whiteSpace=wrap;html=1;" parent="pHOnSbwayD7eDnfhMCeY-21" vertex="1">
           <mxGeometry x="27" y="900" width="120" height="60" as="geometry" />
