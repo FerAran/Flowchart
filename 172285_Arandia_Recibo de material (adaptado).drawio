@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T04:35:30.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="zHEU0z4F2HUi6sT-J-Jg" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-21T04:48:23.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="sC6WOw48Qvi6DEo-HLsB" version="18.1.1" type="github" pages="2">
   <diagram id="NAEZ8g8IM0M3P9Sj0p2i" name="Page-1">
     <mxGraphModel dx="781" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-11" value="Jefe almacén" style="swimlane;startSize=20;" parent="ayZ2iCyhxGKRSi2Dpl_o-1" vertex="1">
           <mxGeometry x="270" width="250" height="1140" as="geometry" />
         </mxCell>
-        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-41" value="Registro de entrada de mercancías" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="ayZ2iCyhxGKRSi2Dpl_o-11" vertex="1">
+        <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-41" value="Registro de entrada de mercancías y etiquetado de la misma" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="ayZ2iCyhxGKRSi2Dpl_o-11" vertex="1">
           <mxGeometry x="65" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CjdfbAL-eO82W5pllThL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ayZ2iCyhxGKRSi2Dpl_o-11" source="CjdfbAL-eO82W5pllThL-1" target="ayZ2iCyhxGKRSi2Dpl_o-41" edge="1">
