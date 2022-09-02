@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T17:01:46.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VkiFabm0OLMr2_rNHPxF" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-02T17:05:39.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SddLP0RbF4JFWKlAMgEu" version="20.2.8" type="github" pages="2">
   <diagram id="NAEZ8g8IM0M3P9Sj0p2i" name="Page-1">
     <mxGraphModel dx="1662" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,13 +172,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-1" value="Proceso inventarios - Recibo de material" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="20" width="770" height="700" as="geometry" />
+          <mxGeometry x="40" y="20" width="540" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-2" value="Proveedor" style="swimlane;startSize=20;" parent="ayZ2iCyhxGKRSi2Dpl_o-1" vertex="1">
-          <mxGeometry x="20" width="250" height="700" as="geometry" />
+          <mxGeometry x="20" width="150" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-11" value="Jefe almacén" style="swimlane;startSize=20;" parent="ayZ2iCyhxGKRSi2Dpl_o-1" vertex="1">
-          <mxGeometry x="270" width="250" height="700" as="geometry" />
+          <mxGeometry x="170" width="210" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-41" value="Registro de entrada de mercancías y etiquetado de la misma" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="ayZ2iCyhxGKRSi2Dpl_o-11" vertex="1">
           <mxGeometry x="65" y="120" width="120" height="80" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="65" y="440" width="85.11" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ayZ2iCyhxGKRSi2Dpl_o-27" value="Auxiliar de calidad" style="swimlane;startSize=20;" parent="ayZ2iCyhxGKRSi2Dpl_o-1" vertex="1">
-          <mxGeometry x="520" width="250" height="700" as="geometry" />
+          <mxGeometry x="380" width="160" height="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
