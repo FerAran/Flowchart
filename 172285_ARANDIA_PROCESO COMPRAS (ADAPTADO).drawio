@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T05:05:42.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="giQKoWCVyATJl2DNVE5Z" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T05:06:08.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FT5ftEXseoe33pvpdTgr" version="20.2.7" type="github">
   <diagram id="7JmZbwjB6ELUenlSnrYS" name="Page-1">
     <mxGraphModel dx="1662" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d-YAenk6aBPuYDDSgrNd-1" value="DIAGRAMA DE COMPRAS" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=27;horizontal=0;horizontalStack=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="20" width="360" height="1240" as="geometry" />
+          <mxGeometry x="30" y="80" width="360" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="d-YAenk6aBPuYDDSgrNd-2" value="Área solicitante" style="swimlane;startSize=40;" parent="d-YAenk6aBPuYDDSgrNd-1" vertex="1">
           <mxGeometry x="27" width="153" height="1240" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-YAenk6aBPuYDDSgrNd-36" value="&#xa;Finanzas" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="770" y="20" width="180" height="1240" as="geometry" />
+          <mxGeometry x="760" y="80" width="180" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="tNtYrPYMZt3GnEs5BZEI-57" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d-YAenk6aBPuYDDSgrNd-36" source="d-YAenk6aBPuYDDSgrNd-113" target="d-YAenk6aBPuYDDSgrNd-31">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-YAenk6aBPuYDDSgrNd-16" value="Legal" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="950" y="20" width="200" height="1240" as="geometry" />
+          <mxGeometry x="940" y="80" width="200" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="d-YAenk6aBPuYDDSgrNd-106" value="Elabora contrato y da seguimiento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;glass=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=40;strokeColor=default;fillColor=default;" parent="d-YAenk6aBPuYDDSgrNd-16" vertex="1">
           <mxGeometry x="30" y="570" width="120" height="80" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNtYrPYMZt3GnEs5BZEI-26" value="Almacém" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="400" y="20" width="170" height="1240" as="geometry" />
+          <mxGeometry x="390" y="80" width="170" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="tNtYrPYMZt3GnEs5BZEI-36" value="Recepción de material" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tNtYrPYMZt3GnEs5BZEI-26">
           <mxGeometry x="25" y="660" width="120" height="60" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d-YAenk6aBPuYDDSgrNd-14" value="Proveedor(es)" style="swimlane;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="570" y="20" width="200" height="1240" as="geometry" />
+          <mxGeometry x="560" y="80" width="200" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="tNtYrPYMZt3GnEs5BZEI-3" value="Manda(n) oferta de compra" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="d-YAenk6aBPuYDDSgrNd-14">
           <mxGeometry x="34" y="170" width="120" height="80" as="geometry" />
