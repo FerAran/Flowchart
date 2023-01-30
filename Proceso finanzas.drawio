@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T21:09:45.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hEiO9xoU-q3O_Tue8muY" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-30T03:19:43.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_lC-lkSLkWCOC-PYfQAv" version="20.3.6" type="github" pages="4">
   <diagram id="idcZyioz9EAjbL1xCykc" name="Ventas">
-    <mxGraphModel dx="701" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LKHNVEcDkvlsCZjcCm3L" name="Compras">
-    <mxGraphModel dx="701" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
         <mxCell id="zx3rkGqe9EATHNWS4IQc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="694TZ4X-pZdyBSEo69BS-21" source="zx3rkGqe9EATHNWS4IQc-24" target="694TZ4X-pZdyBSEo69BS-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zx3rkGqe9EATHNWS4IQc-24" value="Pago efectuado y diminución de recursos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="694TZ4X-pZdyBSEo69BS-21" vertex="1">
+        <mxCell id="zx3rkGqe9EATHNWS4IQc-24" value="Pago efectuado y disminución de recursos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="694TZ4X-pZdyBSEo69BS-21" vertex="1">
           <mxGeometry x="30" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zx3rkGqe9EATHNWS4IQc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="694TZ4X-pZdyBSEo69BS-1" source="zx3rkGqe9EATHNWS4IQc-1" edge="1">
@@ -247,7 +247,7 @@
         <mxCell id="ezFopGbVYxt5OhZ2PyG2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ezFopGbVYxt5OhZ2PyG2-15" source="ezFopGbVYxt5OhZ2PyG2-18" target="ezFopGbVYxt5OhZ2PyG2-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ezFopGbVYxt5OhZ2PyG2-18" value="Pago efectuado y diminución de recursos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="ezFopGbVYxt5OhZ2PyG2-15" vertex="1">
+        <mxCell id="ezFopGbVYxt5OhZ2PyG2-18" value="Pago efectuado y disminución de recursos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="ezFopGbVYxt5OhZ2PyG2-15" vertex="1">
           <mxGeometry x="165" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mkBv0TEwSFkfjX52-f3R-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ezFopGbVYxt5OhZ2PyG2-15" source="mkBv0TEwSFkfjX52-f3R-6" target="mkBv0TEwSFkfjX52-f3R-11" edge="1">
